@@ -20,3 +20,10 @@ The dashboard includes three key analysis sections:
    - Focused analysis of Apple laptop sales, including product count, pricing, and revenue trends.
   
 - **Dashboard Interaction** <a href="http://github.com/vidhya1224/Amazon-Dashboard/blob/main/SS_Amazon%20Dashboard.png">View Dashboard</a>
+
+# Tools Used
+- **Microsoft Excel**
+  - Pivot Tables
+  - Data Cleaning
+  - Charts and Conditional Formatting
+  - Dashboard Design
