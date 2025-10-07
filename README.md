@@ -6,3 +6,17 @@ This project presents an interactive Amazon Sales Dashboard built using Microsof
 
 # Dataset used
 - <a href="https://github.com/vidhya1224/Amazon-Dashboard/blob/main/AMAZON%20DASHBOARD.xlsx">Dataset</a>
+
+# Dashboard Overview
+The dashboard includes three key analysis sections:
+1. **Top 3 Brand Analysis based on Product Sales Count**  
+   - Identifies the best-performing brands by total products sold.
+
+2. **Stock Report based on Rating and Price**  
+   - Compares available stock with customer ratings and price ranges.  
+   - Helps understand product performance and stock efficiency.
+
+3. **Apple Laptop Sales Report**  
+   - Focused analysis of Apple laptop sales, including product count, pricing, and revenue trends.
+  
+-- Dashboard Interaction <a href="http://github.com/vidhya1224/Amazon-Dashboard/blob/main/SS_Amazon%20Dashboard.png">View Dashboard</a>
