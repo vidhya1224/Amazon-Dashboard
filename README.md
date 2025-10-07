@@ -27,3 +27,11 @@ The dashboard includes three key analysis sections:
   - Data Cleaning
   - Charts and Conditional Formatting
   - Dashboard Design
+
+# Insights
+- Top-performing brands contribute a major share of total sales.
+- Ratings have a strong impact on stock turnover.
+- Apple laptops maintain high sales volumes despite premium pricing.
+
+# Dashboard
+<img width="346" height="673" alt="SS_Amazon Dashboard" src="https://github.com/user-attachments/assets/61fcb339-48cd-4bd0-919f-bbbe8d5d9532" />
